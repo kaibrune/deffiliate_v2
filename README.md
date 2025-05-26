@@ -47,6 +47,6 @@ This extension works in every Chromium-based browser (Chrome/Brave/Edge/Opera/Vi
 - amazon.se
 - amazon.sg
 
-## 💌 deffiliate v2
+## 💌 Changes in V2
 
 This version is fully compatible with Manifest V3: it intercepts Amazon requests at the network level—before any page content loads—to strip out affiliate tags quickly and reliably.
